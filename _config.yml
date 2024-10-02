@@ -1,3 +1,25 @@
-title: "My Awesome Website"
-description: "Welcome to my personal website."
-theme: jekyll-theme-minimal  # or any theme you choose
+title: Test
+description: >- 
+  Testinglife
+url: "https://yaphewill.github.io" 
+baseurl: "" # Leave this empty for GitHub Pages
+
+theme: jekyll-theme-minimal
+
+# Author Information
+author:
+  name: "William Test"
+
+# Header settings
+header:
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
