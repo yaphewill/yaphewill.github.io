@@ -5,4 +5,4 @@ title: "Welcome to My Website"
 
 # Hello, I'm William
 
-Welcome to my website! This is where I share my thoughts, projects, and more.
+Welcome to my site! This is where I share my thoughts, projects, and more.
