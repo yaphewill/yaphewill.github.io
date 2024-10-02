@@ -9,11 +9,6 @@ theme: jekyll-theme-hacker
 # Author Information
 author:
   name: "William"
-  avatar: "" # Replace this with your actual avatar image path
-
-# Header settings
-header:
-  image: "/assets/images/header.png" # Replace this with your own header image
 
 plugins:
   - jekyll-feed
