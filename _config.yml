@@ -4,7 +4,7 @@ description: >-
 url: "https://yaphewill.github.io" 
 baseurl: "" # Leave this empty for GitHub Pages
 
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-hacker
 
 # Author Information
 author:
