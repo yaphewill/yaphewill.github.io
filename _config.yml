@@ -1,0 +1,27 @@
+title: You finally arrived
+description: >- 
+  and other famous sentences to be dramatic
+url: "https://yaphewill.github.io" 
+baseurl: "" # Leave this empty for GitHub Pages
+
+remote_theme: mmistakes/minimal-mistakes
+
+# Author Information
+author:
+  name: "William"
+  avatar: "" # Replace this with your actual avatar image path
+
+# Header settings
+header:
+  image: "/assets/images/header.png" # Replace this with your own header image
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
